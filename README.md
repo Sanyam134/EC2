@@ -1,2 +1,2 @@
-# EC2
+# Shellscript -- Backup a directory
 Assignment
